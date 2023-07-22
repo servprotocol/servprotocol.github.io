@@ -1,2 +1,1 @@
-# servprotocol.github.io
-default domain
+![Minion](https://servprotocol.github.io/src/logo.png)
