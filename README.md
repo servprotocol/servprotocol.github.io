@@ -1,1 +1,1 @@
-![Minion](https://servprotocol.github.io/src/logo.png)
+![logo](https://servprotocol.github.io/src/logo.png)
