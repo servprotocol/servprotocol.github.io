@@ -1,1 +1,1 @@
-![logo](https://servprotocol.github.io/src/logo.png)
+![logo](./src/logo.png)
